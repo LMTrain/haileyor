@@ -22,7 +22,7 @@ const Navbar = ({ classes, router, pageProps: { auth } }) => {
         <ActiveLink href="/">
          
           <img
-              src="/static/images/hvlogo.png"
+              src="/static/images/lmlogo.jpg"
               alt={"OV"} width="40" height="40" />
         </ActiveLink>
         <Typography

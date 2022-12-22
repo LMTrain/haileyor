@@ -89,7 +89,7 @@ const Index = ({ classes, auth }) => (
                     component="img"
                     alt="Background Check"
                     height="180"
-                    image="/static/images/hvlogo.png"
+                    image="/static/images/lmlogo.jpg"
                     title="Background Check"
                   />
                   <CardContent>
@@ -116,7 +116,7 @@ const Index = ({ classes, auth }) => (
                   component="img"
                   alt="Finger Printing"
                   height="180"
-                  image="/static/images/hvlogo.png"
+                  image="/static/images/lmlogo.jpg"
                   title="Finger Printing"
                 />
                 <CardContent>
@@ -169,7 +169,7 @@ const Index = ({ classes, auth }) => (
                   component="img"
                   alt="Income Tax Filing"
                   height="180"
-                  image="/static/images/hvlogo.png"
+                  image="/static/images/lmlogo.jpg"
                   title="Income Tax Filing"
                 />
                 <CardContent>
@@ -191,7 +191,7 @@ const Index = ({ classes, auth }) => (
                 component="img"
                 alt="Background Check"
                 height="180"
-                image="/static/images/hvlogo.png"
+                image="/static/images/lmlogo.jpg"
                 title="Background Check"
               />
               <CardContent>
@@ -215,7 +215,7 @@ const Index = ({ classes, auth }) => (
                 component="img"
                 alt="Makeups"
                 height="180"
-                image="/static/images/hvlogo.png"
+                image="/static/images/lmlogo.jpg"
                 title="Makeups"
               />
               <CardContent>
@@ -236,7 +236,7 @@ const Index = ({ classes, auth }) => (
                 component="img"
                 alt="Finger Printing"
                 height="180"
-                image="/static/images/hvlogo.png"
+                image="/static/images/lmlogo.jpg"
                 title="Finger Printing"
               />
               <CardContent>
@@ -260,7 +260,7 @@ const Index = ({ classes, auth }) => (
                 component="img"
                 alt="Notorization"
                 height="180"
-                image="/static/images/hvlogo.png"
+                image="/static/images/lmlogo.jpg"
                 title="Notorization"
               />
               <CardContent>
@@ -281,7 +281,7 @@ const Index = ({ classes, auth }) => (
                 component="img"
                 alt="Income Tax Filling"
                 height="180"
-                image="/static/images/hvlogo.png"
+                image="/static/images/lmlogo.jpg"
                 title="Income Tax Filling"
               />
               <CardContent>
